@@ -5,7 +5,7 @@
 
 ## Portfolio
 
-- [포트폴리오 PDF](./Portfolio/LeeDohyeon_GameClient_Portfolio.pdf)
+- [포트폴리오 PDF](./Portfolio)
 
 ## Source Code
 
